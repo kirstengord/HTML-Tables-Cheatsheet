@@ -1,6 +1,7 @@
 body {
     font-family: "Arial", sans-serif;
     background-color: lightgray;
+    margin: 100px;
 }
 
 h1 ,
@@ -8,13 +9,8 @@ h2 {
     text-align: center;
 }
 
-h1 {
-    font-size: 50px;
-}
-
 h2 {
     color:#800080d4;
-    font-size: 35px;
 }
 
 table {
@@ -25,7 +21,6 @@ table {
 
 th,
 td {
-    font-size: 25px;
     border-bottom: 2px solid #800080d4;
 }
 
